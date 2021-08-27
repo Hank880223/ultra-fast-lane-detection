@@ -1,1 +1,1 @@
-# ultra-fast-lane-detection-npu
+# ultra-fast-lane-detection
