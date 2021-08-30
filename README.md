@@ -1,3 +1,3 @@
-# ultra-fast-lane-detection
+# Ultra-fast-lane-detection
 ## Introduction
 ### How to use NPU run ultra-fast-lane-detection
