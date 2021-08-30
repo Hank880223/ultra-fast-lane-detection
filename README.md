@@ -26,4 +26,6 @@ $ make -j`nproc`
 ```
 
 ## Run
+```bash
 $ ./tracking
+```
