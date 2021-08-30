@@ -1,6 +1,6 @@
 ## How to build Tengine libary with TIMVX for i.mx8m plus
 ### Build i.MX8M Plus BSP 
-* [BSP](https://github.com/Hank880223/ncnn-sort-vehicle/blob/main/doc/BSP.md)
+* [BSP](https://github.com/Hank880223/ultra-fast-lane-detection/blob/main/doc/BSP.md)
 ### Clone TIMVX, Tengine and 3rdparty include floder
 ``` bash
 $ git clone https://github.com/VeriSilicon/TIM-VX.git
