@@ -8,7 +8,6 @@
 
 ## Clone Tengine file
 ```bash
-$ cp -r <tengine-lite-root-dir>/tests/ ultra-fast-lane-detection-master/
 $ cp -r <tengine-lite-root-dir>/tests/common/tengine_operations.c ultra-fast-lane-detection-master/src/
 $ cp -r <tengine-lite-root-dir>/tests/common/ ultra-fast-lane-detection-master/include/
 $ cp -r <tengine-lite-root-dir>/3rdparty/ ultra-fast-lane-detection-master/
