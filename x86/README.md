@@ -12,7 +12,6 @@ $ cp -r <tengine-lite-root-dir>/build/install/include/tengine ultra-fast-lane-de
 ## Build & Compile
 ```bash
 $ mkdir build && cd build
-$ . /opt/bsp-5.4.70-2.3.3/environment-setup-aarch64-poky-linux
 $ cmake ..
 $ make -j`nproc`
 ```
